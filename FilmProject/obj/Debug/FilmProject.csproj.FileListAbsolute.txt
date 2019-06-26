@@ -1,0 +1,7 @@
+C:\Users\mohamadsyazri\source\repos\FilmProject\FilmProject\bin\Debug\FilmProject.exe.config
+C:\Users\mohamadsyazri\source\repos\FilmProject\FilmProject\bin\Debug\FilmProject.exe
+C:\Users\mohamadsyazri\source\repos\FilmProject\FilmProject\bin\Debug\FilmProject.pdb
+C:\Users\mohamadsyazri\source\repos\FilmProject\FilmProject\obj\Debug\FilmProject.csprojAssemblyReference.cache
+C:\Users\mohamadsyazri\source\repos\FilmProject\FilmProject\obj\Debug\FilmProject.csproj.CoreCompileInputs.cache
+C:\Users\mohamadsyazri\source\repos\FilmProject\FilmProject\obj\Debug\FilmProject.exe
+C:\Users\mohamadsyazri\source\repos\FilmProject\FilmProject\obj\Debug\FilmProject.pdb
